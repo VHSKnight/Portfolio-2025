@@ -1,4 +1,6 @@
+```bash 
 #!/usr/bin/env python3
+```python
 import mysql.connector
 
 class Coffee_Shop:
