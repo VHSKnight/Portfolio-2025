@@ -1,4 +1,4 @@
-lass Coffee_Shop:
+class Coffee_Shop:
     def __init__(self, name):
         self.name = name
         self.sales = 0
